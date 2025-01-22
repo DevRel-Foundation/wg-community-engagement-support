@@ -14,15 +14,25 @@ All material contributed to the DRF Community Engagement Support Work Group is u
 
 ## Meetings
 
-Our regular calls are {insert times}. You can find the event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
+Our regular calls are bi-weekly starting Wed, Jan 22 2025. You can find the event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
+
+|  PST | MST |  CST |  IST  | 
+|    ---   |     ---   |      ---        |     ---    |
+|    8a   |     9a   |      10a        |     9:30p    |
+
+
+Scheduled with www.worldtimebuddy.com
+
 
 ## Manager List
 
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
-| person 1 | @ awesome |     @ person    | @ linkedin |
-| person 2 | @ awesome |     @ person    | @ linkedin |
-| person 3 | @ awesome |     @ person    | @ linkedin |
+| Aditya Oberai | @adityaoberai | @adityaoberai1 | [linkedin](https://www.linkedin.com/in/adityaoberai1/) |
+| Jeff Bull | @ awesome | @ person | [linkedin](https://www.linkedin.com/in/jeffbulltech/) |
+| Jenn Junod | @jennjunod | @jennjunod | [linkedin](https://www.linkedin.com/in/jennjunod/) |
+| Sarah Conway | @xenophenes | @sarahconway_10444 | [linkedin](https://www.linkedin.com/in/sarah-conway-05785570/) |
+| Tim Banks | @ awesome | @ person | [linkedin](https://www.linkedin.com/in/timjb/) |
 
 
 If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
