@@ -32,7 +32,7 @@ Scheduled with www.worldtimebuddy.com
 | Jeff Bull | @ awesome | @ person | [linkedin](https://www.linkedin.com/in/jeffbulltech/) |
 | Jenn Junod | @jennjunod | @jennjunod | [linkedin](https://www.linkedin.com/in/jennjunod/) |
 | Sarah Conway | @xenophenes | @sarahconway_10444 | [linkedin](https://www.linkedin.com/in/sarah-conway-05785570/) |
-| Tim Banks | @ awesome | @ person | [linkedin](https://www.linkedin.com/in/timjb/) |
+| Tim Banks | @TimBanks | @elchefe | [linkedin](https://www.linkedin.com/in/timjb/) |
 
 
 If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
