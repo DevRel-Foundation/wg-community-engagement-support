@@ -12,7 +12,7 @@ The Working Group is composed of…
 
 The membership profile is…
 
-# Roles & Responsibilities 
+Roles & Responsibilities 
 
 # Meetings
 
