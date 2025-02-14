@@ -54,3 +54,20 @@ The working group will focus on key activities, including but not limited to:
 # Working Group Resources
 
 #### _COMING SOON!_
+
+
+# Governance
+
+All Working Groups within the DevRel Foundation must:
+
+- Function with openness and transparency, meaning that participation is open to all, and minutes and other documents are available and easily accessible to everyone.
+
+- Adhere to the DevRel Foundation’s [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md)
+
+- Follow Linux Foundation's [Antitrust Policy](https://www.linuxfoundation.org/legal/antitrust-policy)
+
+- Follow [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) and as otherwise set up in the [Developer Relations Foundation Charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc)
+
+For More information: <https://github.com/DevRel-Foundation/governance/pull/17/files#diff-a5e748f515fc060f9baf9feb8e2871c97cd5657858b78f583c6c025c7e49f176>
+
+Compliance with Policies This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at <https://lfprojects.org/policies/>.
