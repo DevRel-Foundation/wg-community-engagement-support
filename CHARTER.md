@@ -1,13 +1,11 @@
 # Working Group Definition
 
-The Community Engagement and Support Working Group exists to strengthen human connection within the DevRel Foundation by fostering collaboration, support, and engagement among community members. Our primary objectives include:
+The Community Engagement and Support Working Group exists to strengthen human connection within the DevRel Foundation by fostering collaboration, support, and engagement among community members. Our objectives include, but are not limited to:
 * **Human Connection** – Creating spaces for authentic interactions, knowledge sharing, and support among DevRel professionals.
 * **Community Growth & Engagement** – Expanding DevRel Foundation awareness and increasing DevRel professionals’ and those interested in DevRel involvement through active engagement initiatives.
 * **Digital Community Management** – Organizing and managing the DevRel Foundation Discord to foster meaningful discussions, collaboration, and engagement.
-* **Event Planning & Execution** – Designing and executing DevRel Foundation events, both virtual and in-person, to facilitate collaboration, networking, and knowledge sharing.
 * **Accessibility & Visibility** – Launching and maintaining the DevRel Foundation’s website to improve accessibility, transparency, and visibility of foundation initiatives.
 * **Diversity, Equity, and Inclusion (DEI) Initiatives** – Developing a DEI plan for the DevRel Foundation Steering Committee, ensuring inclusive community engagement.
-* **Membership Model Exploration** – Evaluating whether the DevRel Foundation should implement a membership model, and, if so, defining its structure and benefits.
 
 ***Note:** _This Working Group operates under the governance of the [DevRel Foundation (DRF)](https://github.com/DevRel-Foundation) and aligns with its mission to support Developer Relations professionals._
 
