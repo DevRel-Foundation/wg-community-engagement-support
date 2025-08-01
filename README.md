@@ -1,41 +1,132 @@
-# wg-community-engagement-support
-Collaborative space for the Community Engagement and Support Working Group under the Developer Relations Foundation
+# Community Engagement & Support Working Group
 
-## DRF Community Engagement Support Work Group
+Welcome to the Developer Relations Foundation's Community Engagement & Support Working Group repository. This working group focuses on developing frameworks, strategies, and best practices for building thriving developer communities through meaningful engagement, comprehensive support systems, and sustainable community growth.
 
-Welcome to the DRF Community Engagement Support Work Group
+## Mission Statement
 
-- Our mailing list to join is here: https://lists.dev-rel.org/g/wg-community-engagement-support/
-- Our Mission is {insert WG mission here}
-- Our Strategic goals for 2025 are listed [here](GOALS.md)
-- We welcome contributions via {insert additional channels} and here on GitHub.
+To establish standardized approaches and resources that enable organizations to build, nurture, and scale developer communities that drive mutual value for both developers and organizations through authentic engagement and robust support ecosystems.
 
-All material contributed to the DRF Community Engagement Support Work Group is under CC-BY-4.0 Licensing.
+## Working Group Objectives
 
-## Meetings
+### Primary Goals
+- **Framework Development**: Create reusable templates and frameworks for community engagement and support strategies
+- **Best Practice Documentation**: Establish industry standards for community engagement across different organizational contexts
+- **Resource Creation**: Develop tools and templates that can be immediately implemented by DevRel professionals
+- **Knowledge Sharing**: Foster collaboration and learning within the broader DevRel community
 
-Our regular calls are bi-weekly starting Wed, Jan 22 2025. You can find the event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
+### Key Deliverables
+- Strategic planning templates and frameworks
+- Tactical implementation guides
+- Measurement and analytics frameworks
+- Community support process documentation
+- Onboarding and engagement playbooks
 
-|  PST | MST |  CST |  IST  | 
-|    ---   |     ---   |      ---        |     ---    |
-|    8a   |     9a   |      10a        |     9:30p    |
+## Repository Structure
 
+```
+├── README.md                           # This file
+├── CONTRIBUTING.md                     # Contribution guidelines
+├── strategy/
+│   ├── community-engagement-strategy-template.md
+│   └── okr-framework.md
+├── tactics/
+│   ├── community-engagement-tactics-template.md
+│   ├── support-playbooks/
+│   └── engagement-campaigns/
+├── frameworks/
+│   ├── community-maturity-model.md
+│   ├── engagement-metrics.md
+│   └── support-tiers.md
+├── examples/
+│   ├── case-studies/
+│   └── implementation-examples/
+└── resources/
+    ├── tools/
+    └── templates/
+```
 
-Scheduled with www.worldtimebuddy.com
+## Key Documents
 
+### Strategic Planning
+- **[Community Engagement Strategy Template](./strategy/community-engagement-strategy-template.md)**: Comprehensive framework for developing community engagement strategies using OKR methodology
+- **[Community Engagement Tactics Template](./tactics/community-engagement-tactics-template.md)**: Tactical implementation guide supporting strategic objectives
 
-## Manager List
+### Contribution Guidelines
+- **[Contributing Guide](./CONTRIBUTING.md)**: How to contribute to this working group's efforts
 
-|    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
-|    ---   |     ---   |      ---        |     ---    |
-| Aditya Oberai | @adityaoberai | @adityaoberai1 | [linkedin](https://www.linkedin.com/in/adityaoberai1/) |
-| Jeff Bull | @ awesome | @ person | [linkedin](https://www.linkedin.com/in/jeffbulltech/) |
-| Jenn Junod | @jennjunod | @jennjunod | [linkedin](https://www.linkedin.com/in/jennjunod/) |
-| Sarah Conway | @xenophenes | @sarahconway_10444 | [linkedin](https://www.linkedin.com/in/sarah-conway-05785570/) |
-| Tim Banks | @TimBanks | @elchefe | [linkedin](https://www.linkedin.com/in/timjb/) |
+## Getting Started
 
+### For DevRel Professionals
+1. Review the [Community Engagement Strategy Template](./strategy/community-engagement-strategy-template.md) to understand the strategic framework
+2. Explore the [Tactics Template](./tactics/community-engagement-tactics-template.md) for implementation guidance
+3. Adapt the templates to your organization's specific needs and context
 
-If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
+### For Contributors
+1. Read our [Contributing Guidelines](./CONTRIBUTING.md)
+2. Join our working group discussions (see Communication Channels below)
+3. Review open issues and identify areas where you can contribute
 
-- For questions specific to this working group, contact managers (at) dev-rel.org or use {insert other contact methods}
-- For broader topics, reach out to steering-committee (at) dev-rel.org
+## Communication Channels
+
+- **Working Group Meetings**: Bi-weekly Fridays at 10:00 AM PST
+- **Slack Channel**: #wg-community-engagement-support in DevRel Foundation Slack
+- **Discussion Forum**: GitHub Discussions in this repository
+- **Mailing List**: community-engagement-wg@devrel.foundation
+
+## Current Focus Areas
+
+### Q1 2025 Priorities
+- [ ] Finalize Community Engagement Strategy Template v1.0
+- [ ] Complete Tactics Implementation Framework
+- [ ] Develop Community Maturity Assessment Model
+- [ ] Create Measurement and Analytics Framework
+
+### Upcoming Initiatives
+- Community Support Tier Framework
+- Developer Journey Mapping Templates
+- Cross-platform Engagement Strategies
+- Community Health Metrics Dashboard
+
+## Working Group Leadership
+
+**Working Group Lead**: [Your Name]
+- GitHub: [@yourusername]
+- Email: your.email@company.com
+- Focus: Strategic framework development, community building
+
+**Co-Lead**: [To be appointed]
+- Focus: Tactical implementation, process optimization
+
+## How to Use These Resources
+
+### Organizations Looking to Improve Community Engagement
+1. Start with the strategy template to establish clear objectives
+2. Use the tactics document to plan specific implementation approaches
+3. Adapt frameworks to your community's unique characteristics and needs
+4. Contribute back lessons learned and improvements
+
+### Individual Contributors
+1. Review documentation and provide feedback through GitHub issues
+2. Share case studies and real-world implementation examples
+3. Contribute new templates, tools, or framework enhancements
+4. Participate in working group discussions and planning sessions
+
+## Success Metrics
+
+We measure our working group's success through:
+- **Adoption Rate**: Number of organizations implementing our frameworks
+- **Community Engagement**: Active participation in discussions and contributions
+- **Content Quality**: Feedback scores and iteration cycles on deliverables
+- **Industry Impact**: Recognition and reference by DevRel professionals and organizations
+
+## License
+
+This work is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use, modify, and distribute these resources with appropriate attribution.
+
+## Acknowledgments
+
+Special thanks to all working group members, contributors, and the broader DevRel Foundation community for their ongoing support and collaboration in advancing developer community engagement practices.
+
+---
+
+**Questions?** Open an issue in this repository or reach out to the working group leadership team.
