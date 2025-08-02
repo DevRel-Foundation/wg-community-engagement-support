@@ -5,8 +5,9 @@
 This tactical implementation guide supports the [Community Engagement Strategy Template](../strategy/community-engagement-strategy-template.md) by providing concrete, actionable tactics for executing strategic objectives. These tactics are organized by strategic focus area and include specific implementation guidance, success metrics, and resource requirements.
 
 **Template Version**: 1.0  
-**Last Updated**: [Date]  
-**Companion Document**: [Community Engagement Strategy Template](../strategy/community-engagement-strategy-template.md)
+**Last Updated**: 7-31-25
+**Recommended review cycle**: Quarterly  
+**Companion document**: [Community strategy _template_](../strategy/Resources/community_strategy.md)
 
 ---
 

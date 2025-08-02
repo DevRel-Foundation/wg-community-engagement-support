@@ -51,7 +51,8 @@ The working group will focus on key activities, including but not limited to:
 
 # Working Group Resources
 
-#### _COMING SOON!_
+* **[Community Strategy](Resources/community_strategy_template.md)** _template_
+* **[Community Tactics](Resources/community_tactics_template.md)** _template_
 
 
 # Governance

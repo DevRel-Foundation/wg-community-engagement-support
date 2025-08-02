@@ -2,126 +2,126 @@
 
 Thank you for your interest in contributing to the DevRel Foundation's Community Engagement & Support Working Group! This document outlines how you can get involved, contribute meaningful work, and collaborate effectively with our community of DevRel professionals.
 
-## Table of Contents
+## Table of contents
 
-- [About This Working Group](#about-this-working-group)
-- [Ways to Contribute](#ways-to-contribute)
-- [Getting Started](#getting-started)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Review Process](#review-process)
-- [Working Group Governance](#working-group-governance)
-- [Communication Channels](#communication-channels)
-- [Recognition and Rewards](#recognition-and-rewards)
+- [About this working group](#about-this-working-group)
+- [Ways to contribute](#ways-to-contribute)
+- [Getting started](#getting-started)
+- [Contribution guidelines](#contribution-guidelines)
+- [Review process](#review-process)
+- [Working group governance](#working-group-governance)
+- [Communication channels](#communication-channels)
+- [Recognition and rewards](#recognition-and-rewards)
 
 ---
 
-## About This Working Group
+## About this working group
 
 The Community Engagement & Support Working Group develops frameworks, templates, and best practices that enable organizations to build thriving developer communities. Our work focuses on creating reusable resources that can be immediately implemented by DevRel professionals across different industries and organizational contexts.
 
-### Our Values
-- **Practical Impact**: Everything we create should solve real problems for DevRel practitioners
-- **Inclusive Collaboration**: We welcome contributors from all backgrounds and experience levels
-- **Open Knowledge**: Our resources are freely available and adaptable to different contexts
-- **Evidence-Based**: Our recommendations are grounded in data and real-world experience
-- **Continuous Learning**: We embrace feedback and iteration to improve our work
+### Our values
+- **Practical impact**: Everything we create should solve real problems for DevRel practitioners
+- **Inclusive collaboration**: We welcome contributors from all backgrounds and experience levels
+- **Open knowledge**: Our resources are freely available and adaptable to different contexts
+- **Evidence based**: Our recommendations are grounded in data and real-world experience
+- **Continuous learning**: We embrace feedback and iteration to improve our work
 
 ---
 
-## Ways to Contribute
+## Ways to contribute
 
-### 🎯 Strategic Framework Development
+### Strategic framework development
 Help develop and refine strategic planning templates and methodologies.
 
-**Examples of Contributions**:
+**Examples of contributions**:
 - Improve the [Community Engagement Strategy Template](./strategy/community-engagement-strategy-template.md)
 - Develop new OKR frameworks for specific community types
 - Create assessment tools for community maturity and health
 - Design strategic planning workshops and facilitation guides
 
-**Skills Needed**: Community strategy experience, framework development, strategic planning
+**Skills needed**: Community strategy experience, framework development, strategic planning
 
-### 🛠️ Tactical Implementation Resources
+### Tactical implementation resources
 Create practical guides and tools for executing community engagement strategies.
 
-**Examples of Contributions**:
+**Examples of contributions**:
 - Enhance the [Community Engagement Tactics Template](./tactics/community-engagement-tactics-template.md)
 - Develop platform-specific implementation guides (Discord, Slack, Circle, etc.)
 - Create automation templates and tool configurations
 - Write tactical playbooks for specific scenarios
 
-**Skills Needed**: Hands-on community management experience, tool expertise, operational knowledge
+**Skills needed**: Hands-on community management experience, tool expertise, operational knowledge
 
-### 📊 Measurement and Analytics
+### Measurement and analytics
 Develop frameworks and tools for measuring community success and impact.
 
-**Examples of Contributions**:
+**Examples of contributions**:
 - Create analytics dashboard templates and configurations
 - Develop survey templates and research methodologies
 - Build ROI calculation models and business impact frameworks
 - Design KPI tracking systems and reporting templates
 
-**Skills Needed**: Data analysis, community analytics, business metrics, research design
+**Skills needed**: Data analysis, community analytics, business metrics, research design
 
-### 📚 Documentation and Examples
+### Documentation and examples
 Improve existing documentation and provide real-world implementation examples.
 
-**Examples of Contributions**:
+**Examples of contributions**:
 - Write case studies showcasing successful strategy implementations
 - Create step-by-step implementation guides with screenshots
 - Develop video tutorials and walkthrough content
 - Translate documents into other languages
 
-**Skills Needed**: Technical writing, community experience, content creation, language skills
+**Skills needed**: Technical writing, community experience, content creation, language skills
 
-### 🔧 Tools and Automation
+### Tools and automation
 Build tools that support community engagement and strategy implementation.
 
-**Examples of Contributions**:
+**Examples of contributions**:
 - Create community health monitoring scripts and dashboards
 - Build template generators and configuration tools
 - Develop integration scripts for popular community platforms
 - Create assessment quizzes and interactive planning tools
 
-**Skills Needed**: Programming, API integration, tool development, UX design
+**Skills needed**: Programming, API integration, tool development, UX design
 
-### 🌟 Community Building
+### Community building
 Help grow and engage our working group community.
 
-**Examples of Contributions**:
+**Examples of contributions**:
 - Organize virtual meetups and discussion sessions
 - Facilitate working group meetings and planning sessions
 - Recruit new contributors and provide onboarding support
 - Moderate discussions and maintain community guidelines
 
-**Skills Needed**: Community building, event planning, facilitation, mentoring
+**Skills needed**: Community building, event planning, facilitation, mentoring
 
 ---
 
-## Getting Started
+## Getting started
 
-### 1. Join Our Community
-**Required Steps**:
+### 1. Join our community
+**Required steps**:
 - [ ] Join the DevRel Foundation Slack workspace
 - [ ] Introduce yourself in the `#wg-community-engagement-support` channel
 - [ ] Attend a working group meeting (scheduled bi-weekly)
 - [ ] Review our current documentation and identify areas of interest
 
-### 2. Choose Your Contribution Focus
-**Assessment Questions**:
+### 2. Choose your contribution focus
+**Assessment questions**:
 - What specific DevRel or community management experience do you bring?
 - Which types of contributions align with your skills and interests?
 - How much time can you realistically commit per week/month?
 - Are you interested in one-time contributions or ongoing involvement?
 
-### 3. Start Contributing
-**For First-Time Contributors**:
+### 3. Start sontributing
+**For first-time contributors**:
 - Look for issues labeled `good first issue` or `help wanted`
 - Comment on issues to express interest and ask questions
 - Start with documentation improvements or small enhancements
 - Request feedback early and often from working group members
 
-**For Experienced Contributors**:
+**For experienced contributors**:
 - Propose new frameworks or significant enhancements
 - Lead the development of new resource categories
 - Mentor new contributors and provide review feedback
@@ -129,60 +129,60 @@ Help grow and engage our working group community.
 
 ---
 
-## Contribution Guidelines
+## Contribution guidelines
 
-### Code of Conduct
+### Code of conduct
 All contributors must adhere to the [DevRel Foundation Code of Conduct](https://devrel.foundation/code-of-conduct). We are committed to maintaining a welcoming, inclusive environment for all participants.
 
-### Content Standards
+### Content standards
 
-#### Documentation Quality
+#### Documentation quality
 - **Clarity**: Write for practitioners with varying experience levels
 - **Actionability**: Include specific steps and implementation guidance
 - **Adaptability**: Design resources to work across different organizational contexts
 - **Evidence-Based**: Support recommendations with data or real-world examples
 
-#### Template Development
+#### Template development
 - **Modularity**: Create components that can be used independently or together
 - **Customization**: Include clear guidance on adaptation and customization
 - **Completeness**: Provide comprehensive coverage of the topic area
 - **Usability**: Test templates with real implementations before submission
 
-#### Framework Creation
+#### Framework creation
 - **Logical Structure**: Organize information in intuitive, progressive steps
 - **Measurability**: Include success metrics and tracking approaches
 - **Scalability**: Design for communities of different sizes and maturity levels
 - **Integration**: Consider how frameworks connect with existing DevRel practices
 
-### Technical Requirements
+### Technical requirements
 
-#### File Organization
+#### File organization
 - Use clear, descriptive file names following kebab-case convention
 - Place files in appropriate directory structure (see [repository structure](./README.md#repository-structure))
 - Include relative links for internal document references
 - Add files to appropriate index or navigation documents
 
-#### Markdown Standards
+#### Markdown standards
 - Follow GitHub Flavored Markdown syntax
 - Use consistent heading hierarchy (H1 for document title, H2 for major sections)
 - Include table of contents for documents longer than 1,000 words
 - Use code blocks with appropriate language specification
 
-#### Version Control
+#### Version control
 - Create descriptive commit messages explaining the change and reasoning
 - Use feature branches for all contributions (never commit directly to main)
 - Keep commits focused and atomic (one logical change per commit)
 - Reference relevant issues in commit messages when applicable
 
-### Content Guidelines
+### Content guidelines
 
-#### Writing Style
-- **Professional but Accessible**: Use clear, jargon-free language
-- **Action-Oriented**: Focus on what practitioners should do
-- **Inclusive Language**: Use gender-neutral and culturally inclusive terminology
-- **Consistent Voice**: Maintain consistent tone and style across documents
+#### Writing style
+- **Professional but accessible**: Use clear, jargon-free language
+- **Action-oriented**: Focus on what practitioners should do
+- **Inclusive language**: Use gender-neutral and culturally inclusive terminology
+- **Consistent voice**: Maintain consistent tone and style across documents
 
-#### Template Structure
+#### Template structure
 All templates should include:
 - Clear purpose statement and use case description
 - Step-by-step implementation guidance
@@ -191,7 +191,7 @@ All templates should include:
 - Customization guidance for different contexts
 - Examples and real-world applications
 
-#### Framework Requirements
+#### Framework requirements
 All frameworks should include:
 - Theoretical foundation and methodology explanation
 - Practical implementation steps
@@ -201,55 +201,55 @@ All frameworks should include:
 
 ---
 
-## Review Process
+## Review process
 
-### Contribution Workflow
+### Contribution workflow
 
-#### 1. Issue Creation (Optional but Recommended)
+#### 1. Issue creation (optional but recommended)
 - Search existing issues to avoid duplication
 - Create detailed issue describing proposed contribution
 - Use appropriate issue templates and labels
 - Engage in discussion with working group members
 
-#### 2. Development Process
+#### 2. Development process
 - Fork the repository and create a feature branch
 - Develop your contribution following our guidelines
 - Test templates or frameworks in real-world scenarios when possible
 - Request early feedback from working group members
 
-#### 3. Pull Request Submission
+#### 3. Pull request submission
 - Create pull request with clear description of changes
 - Reference any related issues
 - Include testing/validation information
 - Request review from appropriate working group members
 
-#### 4. Review and Iteration
+#### 4. Review and iteration
 - Respond to reviewer feedback and questions
 - Make requested changes and improvements
 - Participate in collaborative refinement process
 - Celebrate successful merges and thank reviewers
 
-### Review Criteria
+### Review criteria
 
-#### Content Review
+#### Content review
 - **Accuracy**: Information is correct and up-to-date
 - **Completeness**: Covers the topic comprehensively
 - **Clarity**: Easy to understand and follow
 - **Usefulness**: Provides practical value to practitioners
 
-#### Technical Review
+#### Technical review
 - **Formatting**: Follows markdown and style guidelines
 - **Links**: All internal and external links work correctly
 - **Organization**: Content is logically structured
 - **Integration**: Fits well with existing documentation
 
-#### Community Review
+#### Community review
 - **Relevance**: Addresses real needs in the DevRel community
 - **Inclusivity**: Accessible to practitioners with different backgrounds
 - **Adaptability**: Can be customized for different contexts
 - **Sustainability**: Can be maintained and updated over time
 
-### Review Timeline
+### Review timeline
 - **Initial Review**: Within 5 business days of submission
 - **Feedback Response**: Contributors should respond within 10 business days
 - **Final Review**: Within 3 business days of receiving updated submission
@@ -257,25 +257,25 @@ All frameworks should include:
 
 ---
 
-## Working Group Governance
+## Working group governance
 
-### Decision Making Process
+### Decision making process
 
-#### Consensus Building
+#### Consensus building
 - Major decisions require discussion in working group meetings
 - All active contributors have voice in decision-making process
 - Attempt to reach consensus before voting on contentious issues
 - Document decisions and reasoning in meeting notes
 
-#### Voting Procedures
+#### Voting procedures
 - Used only when consensus cannot be reached
 - Requires quorum of 50% of active working group members
 - Simple majority decides unless otherwise specified
 - Working group lead has tie-breaking vote when necessary
 
-### Leadership Structure
+### Leadership structure
 
-#### Working Group Lead
+#### Working group lead
 **Current**: [Your Name]
 **Responsibilities**:
 - Strategic direction and priority setting
@@ -286,23 +286,23 @@ All frameworks should include:
 **Term**: 12 months with possibility of renewal
 **Selection**: Nominated by working group members, confirmed by DevRel Foundation
 
-#### Subject Matter Experts
-**Strategy Lead**: [To be appointed]
+#### Subject matter experts
+**Strategy lead**: [To be appointed]
 - Oversight of strategic framework development
 - Review of strategy-related contributions
 - Facilitation of strategic planning discussions
 
-**Tactics Lead**: [To be appointed]
+**Tactics lead**: [To be appointed]
 - Oversight of tactical implementation resources
 - Review of tactics-related contributions
 - Coordination with tool and platform vendors
 
-**Measurement Lead**: [To be appointed]
+**Measurement lead**: [To be appointed]
 - Oversight of analytics and measurement frameworks
 - Review of metrics-related contributions
 - Coordination with data and research initiatives
 
-### Membership Levels
+### Membership levels
 
 #### Observer
 - Interested in working group activities
@@ -316,13 +316,13 @@ All frameworks should include:
 - Has voice in decision-making process
 - Eligible for recognition and advancement
 
-#### Core Member
+#### Core member
 - Significant ongoing contribution to working group
 - Takes leadership on specific initiatives
 - Mentors new contributors
 - Full voting rights in governance decisions
 
-#### Subject Matter Expert
+#### Subject matter expert
 - Recognized expertise in specific domain area
 - Leadership responsibility for content area
 - Authority to approve contributions in their domain
@@ -330,24 +330,24 @@ All frameworks should include:
 
 ---
 
-## Communication Channels
+## Communication channels
 
-### Primary Channels
+### Primary channels
 
-#### Slack Workspace
+#### Slack workspace
 **Channel**: `#wg-community-engagement-support`
 - Daily discussion and coordination
 - Quick questions and clarifications
 - Meeting reminders and updates
 - Informal collaboration and networking
 
-**Best Practices**:
+**Best practices**:
 - Use thread responses for detailed discussions
 - Search previous messages before asking questions
 - Use @channel sparingly for urgent announcements only
 - Pin important resources and meeting information
 
-#### GitHub Discussions
+#### GitHub discussions
 **Location**: [Repository Discussions](https://github.com/DevRel-Foundation/wg-community-engagement-support/discussions)
 - Long-form discussions and brainstorming
 - Feature requests and enhancement proposals
@@ -360,27 +360,27 @@ All frameworks should include:
 - **Q&A**: Questions about implementation and usage
 - **Show and Tell**: Share your implementations and successes
 
-#### Working Group Meetings
+#### Working group meetings
 **Schedule**: Bi-weekly Fridays at 10:00 AM PST
 **Platform**: Zoom (link shared in Slack channel)
 **Duration**: 60 minutes
 **Format**: Structured agenda with time for open discussion
 
-**Meeting Structure**:
+**Meeting structure**:
 - Progress updates on current initiatives (15 minutes)
 - Deep dive on specific topic or contribution (20 minutes)
 - Planning and prioritization discussion (15 minutes)
 - Open discussion and Q&A (10 minutes)
 
-### Communication Guidelines
+### Communication guidelines
 
-#### Response Expectations
+#### Response expectations
 - **Slack**: Respond within 24-48 hours during business days
 - **GitHub Issues/PRs**: Respond within 5 business days
 - **Email**: Respond within 3 business days
 - **Meetings**: Provide 24-hour notice if unable to attend
 
-#### Escalation Process
+#### Escalation process
 1. **Level 1**: Direct message in Slack for quick questions
 2. **Level 2**: Post in working group channel for broader input
 3. **Level 3**: Create GitHub issue for formal tracking and discussion
@@ -388,42 +388,42 @@ All frameworks should include:
 
 ---
 
-## Recognition and Rewards
+## Recognition and rewards
 
-### Contribution Recognition
+### Contribution recognition
 
-#### Monthly Contributors
+#### Monthly contributors
 - Featured in working group updates and DevRel Foundation newsletter
 - Recognition in Slack channel with contribution summary
 - Addition to contributor list in repository README
 
-#### Outstanding Contributors
+#### Outstanding contributors
 - Special recognition at DevRel Foundation events
 - Opportunity to present work at conferences and meetups
 - Invitation to join working group leadership team
 - Featured case study development and promotion
 
-#### Annual Awards
-- **Innovation Award**: Most creative or impactful new framework/template
-- **Community Builder Award**: Best efforts in growing and supporting our community
-- **Implementation Excellence Award**: Best real-world implementation and case study
-- **Mentorship Award**: Outstanding support and guidance for new contributors
+#### Annual awards
+- **Innovation award**: Most creative or impactful new framework/template
+- **Community Builder award**: Best efforts in growing and supporting our community
+- **Implementation Excellence award**: Best real-world implementation and case study
+- **Mentorship award**: Outstanding support and guidance for new contributors
 
-### Professional Development
+### Professional development
 
-#### Learning Opportunities
+#### Learning opportunities
 - Access to DevRel Foundation training and educational resources
 - Priority registration for DevRel conferences and events
 - Networking opportunities with DevRel leaders and practitioners
 - Mentorship matching with experienced community professionals
 
-#### Career Advancement
+#### Career advancement
 - LinkedIn recommendations from working group leadership
 - Professional reference and endorsement opportunities
 - Resume enhancement through working group participation documentation
 - Job referral network access within DevRel Foundation community
 
-#### Thought Leadership
+#### Thought leadership
 - Speaking opportunities at DevRel Foundation events
 - Guest blogging on DevRel Foundation platforms
 - Podcast interview opportunities
@@ -431,27 +431,27 @@ All frameworks should include:
 
 ---
 
-## Getting Help
+## Getting help
 
-### For New Contributors
+### For new contributors
 - Join the `#wg-community-engagement-support` Slack channel and introduce yourself
 - Attend a working group meeting to meet the team
 - Start with documentation improvements or small issues labeled `good first issue`
 - Ask questions freely - our community is here to help you succeed
 
-### For Technical Issues
+### For technical issues
 - Search existing GitHub issues for similar problems
 - Create a new issue with detailed description and steps to reproduce
 - Tag relevant working group members for faster response
 - Join our Slack channel for real-time troubleshooting
 
-### For Content Questions
+### For content questions
 - Review existing templates and frameworks for patterns and examples
 - Participate in GitHub Discussions for brainstorming and feedback
 - Schedule office hours with subject matter experts
 - Present works-in-progress at working group meetings for feedback
 
-### For Process Questions
+### For process questions
 - Review this contributing guide thoroughly
 - Ask in Slack channel for clarification on procedures
 - Contact working group leadership for policy questions
@@ -459,7 +459,7 @@ All frameworks should include:
 
 ---
 
-## Thank You
+## Thank you
 
 Your contributions make the DevRel community stronger and help practitioners around the world build better developer communities. Whether you're sharing your experience, improving our documentation, or creating new frameworks, every contribution matters.
 
