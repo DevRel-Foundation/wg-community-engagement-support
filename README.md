@@ -1,4 +1,10 @@
-# Community engagement & support working group
+<p align="center">
+<img src="./resources/tools/devrel-foundation-community-banner.png" alt="Developer Relations Foundation Community Engagement & Support working group" />
+</p>
+
+<h1 align="center" style="border-bottom: none">
+    Community Engagement & Support
+</h1>
 
 Welcome to the Developer Relations Foundation's Community Engagement & Support Working Group repository. This working group focuses on developing frameworks, strategies, and best practices for building thriving developer communities through meaningful engagement, comprehensive support systems, and sustainable community growth.
 
