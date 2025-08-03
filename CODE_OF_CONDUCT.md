@@ -338,7 +338,9 @@ When appropriate and safe for all involved, we prioritize restorative approaches
 
 **Professional development**
 - [DevRel foundation training programs](https://devrel.foundation/training)
-- [Community management certification programs](https://example.com)
+- Community management certification programs
+  - [CMX Academy](https://www.cmxhub.com/academy)
+  - [Community Strategy Academy](https://communitystrategyacademy.com/)
 - [Diversity and inclusion training](https://example.com)
 
 **Support services**
@@ -355,6 +357,7 @@ Additional inspiration and guidance drawn from:
 - [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
 - [Python Community Code of Conduct](https://www.python.org/psf/conduct/)
 - [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+- [PyTorch Code of Conduct](https://github.com/pytorch/pytorch/blob/main/CODE_OF_CONDUCT.md)
 
 ## Contact information
 
@@ -363,7 +366,7 @@ Additional inspiration and guidance drawn from:
 ## Document information
 
 **Version**: 1.0  
-**Effective date**: [Date]  
+**Effective date**: 8-3-25  
 **Next review**: [Date + 6 months]  
 **Approved by**: DevRel Foundation Community Engagement & Support working group
 
@@ -373,7 +376,7 @@ Additional inspiration and guidance drawn from:
 **Related documents**:
 - [Contributing guidelines](./CONTRIBUTING.md)
 - [Working group charter](./CHARTER.md)
-- [Community engagement strategy template](./strategy/community-engagement-strategy-template.md)
+- [Community engagement strategy template](./strategy/community_strategy.md)
 
 ---
 

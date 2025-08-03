@@ -34,7 +34,7 @@ The Community Engagement & Support working group develops frameworks, templates,
 Help develop and refine strategic planning templates and methodologies.
 
 **Examples of contributions**:
-- Improve the [Community Engagement Strategy Template](./strategy/community-engagement-strategy-template.md)
+- Improve the [Community Engagement Strategy Template](./strategy/community_engagement_strategy_template.md)
 - Develop new OKR frameworks for specific community types
 - Create assessment tools for community maturity and health
 - Design strategic planning workshops and facilitation guides
@@ -45,7 +45,7 @@ Help develop and refine strategic planning templates and methodologies.
 Create practical guides and tools for executing community engagement strategies.
 
 **Examples of contributions**:
-- Enhance the [Community Engagement Tactics Template](./tactics/community-engagement-tactics-template.md)
+- Enhance the [Community Engagement Tactics Template](./tactics/community_engagement_tactics_template.md)
 - Develop platform-specific implementation guides (Discord, Slack, Circle, etc.)
 - Create automation templates and tool configurations
 - Write tactical playbooks for specific scenarios

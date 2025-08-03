@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./resources/tools/devrel-foundation-community-banner.png" alt="Developer Relations Foundation Community Engagement & Support working group" />
+<img src="./resources/tools/devrel_foundation_community_banner.png" alt="Developer Relations Foundation Community Engagement & Support working group" />
 </p>
 
 <h1 align="center" style="border-bottom: none">
@@ -37,22 +37,22 @@ To establish standardized approaches and resources that enable organizations to 
   - [case studies/](./examples/case-studes/)
   - [implementation examples/](./examples/implementation-examples/)
 - [frameworks/](./frameworks/)
-  - [community maturity model](./frameworks/community-maturity-model.md)
-  - [engagement metrics](./frameworks/engagement-metrics.md)
-  - [support tiers](./frameworks/support-tiers.md)
+  - [community maturity model](./frameworks/community_maturity_model.md)
+  - [engagement metrics](./frameworks/engagement_metrics.md)
+  - [support tiers](./frameworks/support_tiers.md)
 - [resources/](./resources/)
   - [templates/](./resources/templates/)
   - [tools/](./resources/tools/)
 - [strategy/](./strategy/)
-  - [30 60 90 day plan](./strategy/30-60-90-day-plan.md)
+  - [30 60 90 day plan](./strategy/30_60_90_day_plan.md)
   - [community strategy](./strategy/community_strategy.md)
-  - [continuous improvement process](./strategy/continuous-improvement-process.md)
-  - [journey map](./strategy/journey-map.md)
-  - [okr framework](./strategy/okr-framework.md)
-  - [resource allocation budget](./strategy/resource-allocation-budget.md)
-  - [risk assessment mitigation](./strategy/risk-assessment-mitigation.md)
-  - [stakeholder alignment](./strategy/stakeholder-alignment.md)
-  - [success measures](./strategy/success-measures.md)
+  - [continuous improvement process](./strategy/continuous_improvement_process.md)
+  - [journey map](./strategy/journey_map.md)
+  - [okr framework](./strategy/okr_framework.md)
+  - [resource allocation budget](./strategy/resource_allocation_budget.md)
+  - [risk assessment mitigation](./strategy/risk_assessment_mitigation.md)
+  - [stakeholder alignment](./strategy/stakeholder_alignment.md)
+  - [success measures](./strategy/success_measures.md)
 - [tactics/](./tactics/)
   - [engagement campaigns/](./tactics/engagement-campaigns/)
   - [support-playbooks/](./tactics/support-playbooks/)
@@ -106,9 +106,6 @@ To establish standardized approaches and resources that enable organizations to 
 - GitHub: [@yourusername]
 - Email: your.email@company.com
 - Focus: Strategic framework development, community building
-
-**Co-lead**: [To be appointed]
-- Focus: Tactical implementation, process optimization
 
 ## How to use these resources
 
