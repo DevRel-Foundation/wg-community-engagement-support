@@ -1,25 +1,33 @@
-# Working Group Definition
+# Working group definition
 
-The Community Engagement and Support Working Group exists to strengthen human connection within the DevRel Foundation by fostering collaboration, support, and engagement among community members. Our objectives include, but are not limited to:
-* **Human Connection** – Creating spaces for authentic interactions, knowledge sharing, and support among DevRel professionals.
-* **Community Growth & Engagement** – Expanding DevRel Foundation awareness and increasing DevRel professionals’ and those interested in DevRel involvement through active engagement initiatives.
-* **Digital Community Management** – Organizing and managing the DevRel Foundation Discord to foster meaningful discussions, collaboration, and engagement.
-* **Accessibility & Visibility** – Launching and maintaining the DevRel Foundation’s website to improve accessibility, transparency, and visibility of foundation initiatives.
-* **Diversity, Equity, and Inclusion (DEI) Initiatives** – Developing a DEI plan for the DevRel Foundation Steering Committee, ensuring inclusive community engagement.
+The Community Engagement and Support working group exists to strengthen human connection within the DevRel Foundation by fostering collaboration, support, and engagement among community members. Our objectives include, but are not limited to:
+* **Human connection** – Creating spaces for authentic interactions, knowledge sharing, and support among DevRel professionals.
+* **Community growth & engagement** – Expanding DevRel Foundation awareness and increasing DevRel professionals’ and those interested in DevRel involvement through active engagement initiatives.
+* **Digital community management** – Organizing and managing the DevRel Foundation Discord to foster meaningful discussions, collaboration, and engagement.
+* **Accessibility & visibility** – Launching and maintaining the DevRel Foundation’s website to improve accessibility, transparency, and visibility of foundation initiatives.
+* **Diversity, Equity, and Inclusion (DEI) initiatives** – Developing a DEI plan for the DevRel Foundation Steering Committee, ensuring inclusive community engagement.
 
-***Note:** _This Working Group operates under the governance of the [DevRel Foundation (DRF)](https://github.com/DevRel-Foundation) and aligns with its mission to support Developer Relations professionals._
+***Note:** _This working group operates under the governance of the [DevRel Foundation (DRF)](https://github.com/DevRel-Foundation) and aligns with its mission to support Developer Relations professionals._
 
 
-# Working Group Composition
+# Working group composition
 
-The Community Engagement Working Group is composed of members who actively contribute to discussions, initiatives, and activities that enhance community interaction within DRF.
+The Community Engagement working group is composed of members who actively contribute to discussions, initiatives, and activities that enhance community interaction within DRF.
 
-## Membership Profile
+## Current working group managers
+> _as of August 2nd, 2025_
+
+- [Aditya Oberai](https://github.com/adityaoberai)
+- [Jenn Junod](https://github.com/jennjunod)
+- [Jeff Bull](https://github.com/jeffbulltech)
+- [Sarah Conway](https://github.com/xenophenes)
+
+## Membership profile
 * Open to all members of the [DevRel Foundation (DRF)](https://github.com/DevRel-Foundation).
 * Participation is voluntary but requires active engagement.
 * Members should have a background or interest in Developer Relations, Community Building, or Technical Advocacy.
 
-## Roles & Responsibilities
+## Roles & responsibilities
 * **Managers**: Lead meetings, set agendas, and ensure objectives are met.
 * **Participants**: Contribute to discussions, initiatives, and documentation.
 * **Observers**: Participate in discussions but are not required to contribute actively.
@@ -39,7 +47,7 @@ Our regular calls are bi-weekly starting Wed, Jan 22 2025. You can find the even
 
 > Scheduled using [WorldTimeBuddy](https://www.worldtimebuddy.com)
 
-# Critical Annual Activities 
+# Critical annual activities 
 
 The working group will focus on key activities, including but not limited to:
 * **Community Support Initiatives** – Organizing meetups, webinars, or office hours.
@@ -49,7 +57,7 @@ The working group will focus on key activities, including but not limited to:
 * **Elections & Governance** – If applicable, ensuring smooth leadership transitions.
 
 
-# Working Group Resources
+# Working group resources
 
 * **[Community Strategy](Resources/community_strategy_template.md)** _template_
 * **[Community Tactics](Resources/community_tactics_template.md)** _template_
@@ -57,7 +65,7 @@ The working group will focus on key activities, including but not limited to:
 
 # Governance
 
-All Working Groups within the DevRel Foundation must:
+All working groups within the DevRel Foundation must:
 
 - Function with openness and transparency, meaning that participation is open to all, and minutes and other documents are available and easily accessible to everyone.
 
@@ -70,3 +78,7 @@ All Working Groups within the DevRel Foundation must:
 For More information: <https://github.com/DevRel-Foundation/governance/pull/17/files#diff-a5e748f515fc060f9baf9feb8e2871c97cd5657858b78f583c6c025c7e49f176>
 
 Compliance with Policies This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at <https://lfprojects.org/policies/>.
+
+---
+
+**Questions?** Open an [Issue](https://github.com/DevRel-Foundation/wg-community-engagement-support/issues) in this repository or reach out to the working-group leadership team in [Discord](https://discord.gg/ukMnmFjw43), <mark>🌱community-updates</mark> channel.

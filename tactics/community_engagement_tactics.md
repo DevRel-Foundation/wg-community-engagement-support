@@ -722,7 +722,7 @@ This tactical template provides comprehensive implementation guidance for execut
 ### Getting Support
 
 For questions about implementing these tactics or adapting them to your specific context:
-- Open an issue in the [Community Engagement & Support Working Group repository](https://github.com/DevRel-Foundation/wg-community-engagement-support)
+- Open an issue in the [Community Engagement & Support working group repository](https://github.com/DevRel-Foundation/wg-community-engagement-support)
 - Join the working group discussions in the DevRel Foundation Slack
 - Reference the [Community Engagement Strategy Template](../strategy/community-engagement-strategy-template.md) for strategic alignment
 

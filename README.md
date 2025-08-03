@@ -6,13 +6,13 @@
     Community Engagement & Support
 </h1>
 
-Welcome to the Developer Relations Foundation's Community Engagement & Support Working Group repository. This working group focuses on developing frameworks, strategies, and best practices for building thriving developer communities through meaningful engagement, comprehensive support systems, and sustainable community growth.
+Welcome to the Developer Relations Foundation's Community Engagement & Support working group repository. This working group focuses on developing frameworks, strategies, and best practices for building thriving developer communities through meaningful engagement, comprehensive support systems, and sustainable community growth.
 
 ## Mission statement
 
 To establish standardized approaches and resources that enable organizations to build, nurture, and scale developer communities that drive mutual value for both developers and organizations through authentic engagement and robust support ecosystems.
 
-## Working group objectives
+## working group objectives
 
 ### Primary goals
 - **Framework development**: Create reusable templates and frameworks for community engagement and support strategies
@@ -81,7 +81,7 @@ To establish standardized approaches and resources that enable organizations to 
 
 ## Communication channels
 
-- **Working group meetings**: _TBD_
+- **working group meetings**: _TBD_
 - **Discord**: 🙋community-engage-support in [DevRel Foundation Discord](https://discord.gg/ukMnmFjw43)
 - **Discussion forum**: [GitHub Discussions](https://github.com/DevRel-Foundation/wg-community-engagement-support/discussions) in this repository
 - **Mailing list**: [https://lists.dev-rel.org/g/wg-community-engagement-support/](https://lists.dev-rel.org/g/wg-community-engagement-support/)
@@ -100,9 +100,9 @@ To establish standardized approaches and resources that enable organizations to 
 - Cross-platform engagement strategies
 - Community health metrics dashboard
 
-## Working group leadership
+## working group leadership
 
-**Working group lead**: [Your Name]
+**working group lead**: [Your Name]
 - GitHub: [@yourusername]
 - Email: your.email@company.com
 - Focus: Strategic framework development, community building

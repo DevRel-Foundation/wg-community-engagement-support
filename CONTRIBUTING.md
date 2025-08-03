@@ -1,6 +1,6 @@
-# Contributing to the Community Engagement & Support Working Group
+# Contributing to the Community Engagement & Support working group
 
-Thank you for your interest in contributing to the DevRel Foundation's Community Engagement & Support Working Group! This document outlines how you can get involved, contribute meaningful work, and collaborate effectively with our community of DevRel professionals.
+Thank you for your interest in contributing to the DevRel Foundation's Community Engagement & Support working group! This document outlines how you can get involved, contribute meaningful work, and collaborate effectively with our community of DevRel professionals.
 
 ## Table of contents
 
@@ -9,7 +9,7 @@ Thank you for your interest in contributing to the DevRel Foundation's Community
 - [Getting started](#getting-started)
 - [Contribution guidelines](#contribution-guidelines)
 - [Review process](#review-process)
-- [Working group governance](#working-group-governance)
+- [working group governance](#working-group-governance)
 - [Communication channels](#communication-channels)
 - [Recognition and rewards](#recognition-and-rewards)
 
@@ -17,7 +17,7 @@ Thank you for your interest in contributing to the DevRel Foundation's Community
 
 ## About this working group
 
-The Community Engagement & Support Working Group develops frameworks, templates, and best practices that enable organizations to build thriving developer communities. Our work focuses on creating reusable resources that can be immediately implemented by DevRel professionals across different industries and organizational contexts.
+The Community Engagement & Support working group develops frameworks, templates, and best practices that enable organizations to build thriving developer communities. Our work focuses on creating reusable resources that can be immediately implemented by DevRel professionals across different industries and organizational contexts.
 
 ### Our values
 - **Practical impact**: Everything we create should solve real problems for DevRel practitioners
@@ -253,11 +253,11 @@ All frameworks should include:
 - **Initial Review**: Within 5 business days of submission
 - **Feedback Response**: Contributors should respond within 10 business days
 - **Final Review**: Within 3 business days of receiving updated submission
-- **Merge Decision**: Working group leadership makes final merge decisions
+- **Merge Decision**: working group leadership makes final merge decisions
 
 ---
 
-## Working group governance
+## working group governance
 
 ### Decision making process
 
@@ -271,17 +271,17 @@ All frameworks should include:
 - Used only when consensus cannot be reached
 - Requires quorum of 50% of active working group members
 - Simple majority decides unless otherwise specified
-- Working group lead has tie-breaking vote when necessary
+- working group lead has tie-breaking vote when necessary
 
 ### Leadership structure
 
-#### Working group lead
+#### working group lead
 **Current**: [Your Name]
 **Responsibilities**:
 - Strategic direction and priority setting
 - Stakeholder communication and reporting
 - Final decision authority on contentious issues
-- Working group representation in DevRel Foundation activities
+- working group representation in DevRel Foundation activities
 
 **Term**: 12 months with possibility of renewal
 **Selection**: Nominated by working group members, confirmed by DevRel Foundation
@@ -360,11 +360,11 @@ All frameworks should include:
 - **Q&A**: Questions about implementation and usage
 - **Show and Tell**: Share your implementations and successes
 
-#### Working group meetings
-**Schedule**: Bi-weekly Fridays at 10:00 AM PST
-**Platform**: Zoom (link shared in Slack channel)
-**Duration**: 60 minutes
-**Format**: Structured agenda with time for open discussion
+**Working group meetings**:
+- **Schedule**: Bi-weekly Fridays at 10:00 AM PST
+- **Platform**: Zoom (link shared in Slack channel)
+- **Duration**: 60 minutes
+- **Format**: Structured agenda with time for open discussion
 
 **Meeting structure**:
 - Progress updates on current initiatives (15 minutes)
@@ -467,4 +467,4 @@ We're excited to work with you and see what we can build together!
 
 ---
 
-**Questions?** Reach out to the working group leadership team or join our Slack channel. We're here to help you make meaningful contributions to the DevRel community.
+**Questions?** Open an [Issue](https://github.com/DevRel-Foundation/wg-community-engagement-support/issues) in this repository or reach out to the working-group leadership team in [Discord](https://discord.gg/ukMnmFjw43), <mark>🌱community-updates</mark> channel.
