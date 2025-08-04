@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./resources/tools/devrel_foundation_community_banner.png" alt="Developer Relations Foundation Community Engagement & Support working group" />
+<img src="resources/tools/devrel_foundation_community_banner.png" alt="Developer Relations Foundation Community Engagement & Support working group" />
 </p>
 
 <h1 align="center" style="border-bottom: none">
