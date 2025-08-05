@@ -42,7 +42,7 @@ To establish standardized approaches and resources that enable organizations to 
   - [support tiers](./frameworks/support_tiers.md)
 - [resources/](./resources/)
   - [templates/](./resources/templates/)
-  - [tools/](./resources/tools/)
+  - [tools](./resources/tools/TOOLS_README.md)
 - [strategy/](./strategy/)
   - [30 60 90 day plan](./strategy/30_60_90_day_plan.md)
   - [community strategy](./strategy/community_strategy.md)
