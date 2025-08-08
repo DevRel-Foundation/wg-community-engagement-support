@@ -1,4 +1,11 @@
-# Community Maturity Models: A Reference Guide for Community Leaders
+<p align="center">
+<img src="./community_maturity_models.png" alt="Community Maturity Models: a reference guide for community leaders" />
+</p>
+
+<h1 align="center" style="border-bottom: none">
+    Community Maturity Models
+</h1>
+
 
 ## Overview
 
