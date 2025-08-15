@@ -1,0 +1,24 @@
+name: 📚 Documentation issue
+description: Report an issue related to https://github.com/DevRel-Foundation/wg-community-engagement-support
+
+body:
+- type: markdown
+  attributes:
+    value: >
+      #### Note: Please report your documentation issue in English to ensure it can be understood and addressed by the community and working group.
+- type: textarea
+  attributes:
+    label: 📚 The doc issue
+    description: >
+      A clear and concise description of what content in https://github.com/DevRel-Foundation/wg-community-engagement-support is an issue. If this has to do with the general https://dev-rel.org/ website, please file an issue at https://github.com/DevRel-Foundation under the appropriate repository instead. 
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Suggest a potential alternative/fix
+    description: >
+      Tell us how we could improve the documentation in this regard.
+- type: markdown
+  attributes:
+    value: >
+      Thanks for contributing 🎉!
